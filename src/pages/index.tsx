@@ -9,7 +9,7 @@ const Home: NextPage = () => {
         <meta name="description" content="Adam Borowski - portfolio" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div className="text-red-400">xd</div>
+      <button className="btn btn-active btn-accent">Button</button>
     </div>
   );
 };
